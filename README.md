@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Artsiom 👋
 
-### My portfolio: https://bit.ly/3zzq5hD
+- My portfolio: [Link](https://bit.ly/3zzq5hD)
+- E-commerce project: [Link](https://bit.ly/3cvG8Un)
 
-### E-commerce project: https://bit.ly/3cvG8Un
-
-### Codewars: https://www.codewars.com/users/RockStar666/badges/small
+<img src="https://www.codewars.com/users/RockStar666/badges/large">
 
 <!--
 **RockStar666by/RockStar666by** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
