@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My portfolio: https://bit.ly/3zzq5hD
+
+### E-commerce project: https://bit.ly/3cvG8Un
+
+### Codewars: https://www.codewars.com/users/RockStar666/badges/small
+
 <!--
 **RockStar666by/RockStar666by** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
