@@ -5,6 +5,10 @@
 
 <img src="https://www.codewars.com/users/RockStar666/badges/large">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockStar666by&layout=compact)](https://github.com/RockStar666by)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!--
 **RockStar666by/RockStar666by** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
